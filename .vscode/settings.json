@@ -1,0 +1,23 @@
+{
+  "markdownlint.config": {
+    "default": true,
+    "MD004": {
+      "style": "consistent"
+    },
+    "MD024": {
+      "allow_different_nesting": true
+    },
+    "MD029": {
+      "style": "ordered"
+    },
+    "MD035": {
+      "style": "consistent"
+    },
+    "MD046": {
+      "style": "fenced"
+    },
+  },
+  "markdown.extension.print.validateUrls": false,
+  "markdown.extension.tableFormatter.normalizeIndentation": true,
+  "markdown.extension.toc.githubCompatibility": true
+}
