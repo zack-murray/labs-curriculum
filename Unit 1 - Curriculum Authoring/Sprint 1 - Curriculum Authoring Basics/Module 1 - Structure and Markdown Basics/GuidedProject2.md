@@ -1,4 +1,4 @@
-# Sprint 1, Module 1 - Breaking Down Tasks
+# Sprint 1, Module 2 - Reviewing Task Breakdowns
 
 ## [Training Kit](www.example.com)
 
@@ -12,7 +12,7 @@
 
 ### Instructor Resources
 
-* 🐙 [Slides](https://docs.google.com/presentation/d/1HgKFg8vbAsrptP_cIN-b6_QkZ2mbsy1m4AMrn7BRqd0/edit#slide=id.g89f88c27ec_0_31)
+* 🐙 [Slides](https://docs.google.com/presentation/d/1hl8_bNuORY6nQQB3jCZcZI25q0sfrZ5KZEqO6lE4eSk/edit?usp=sharing)
 * 🐙 [Blank Trello Board](https://trello.com/b/aE7YSd3b/project-management)
 * 🐙 [Training Kit GitHub Repo](www.example.com)
 
@@ -38,15 +38,12 @@ Here's an overview of our guided project schedule today.
 
 | Time Stamp | Activity                        |
 | ---------- | ------------------------------- |
-| 12:00      | What is a user story?           |
-| 12:02      | Walk through an application     |
-| 12:05      | Student explores an application |
-| 12:15      | Feedback on student examples    |
-| 12:20      | Demonstrate roadmap break down  |
-| 12:25      | Adding list of technical tasks  |
-| 12:40      | Breakout Room - User Story tasks|
-| 12:55      | Feedback on student examples    |
-| 01:00      | End                             |
+| 09:00      | Review yesterday's key points   |
+| 09:05      | Student Trello board review     |
+| 09:35      | Hiring manager questions        |
+| 09:40      | Speaking about your process     |
+| 09:50      | Going over the inquiry          |
+| 09:55      | End                             |
 
 ### The Hook
 
@@ -80,41 +77,33 @@ You should communicate this to the students at the beginning of the lesson and r
 
 ### I Do
 
-**Discuss what a user story is**
+**Reviewing key takewaways from yesterday's guided project**
 
-- Instructor describes what a user story is.
-  
-**Walk through an application**
-
-- Instructor pulls up the AllTrails web application and asks for what user stories there are in slack.
+- Instructor briefly reviews key points and takeaways from yesterday's guided project.
 
 ### We Do
 
-**Students go through an application**
+**Reviewing Trello boards**
 
-- Give students a list of existing web applications. Have students list out as many user stories as possible in 5 minutes and what page that user story exists on. 
+- Instructor picks three teams and reviews their trello board in front of everyone.
 
-**Go over students' examples**
+**Hiring Manager Questions**
 
-- Instructor goes through students' user stories and provides feedback.
-  
-**Breaking a product roadmap down into user stories**
+- Instructor asks students in slack what questions they think hiring managers could ask about their breakdown process.
 
-- Instructor pulls up Hackathon Portal product roadmap and creates trello cards for each user story.
+**Speaking about your process**
 
-**Adding supplemental tasks to the user stories**
-
-- Instructor puts a checklist of tasks to accomplish a single user story on the Hackathon Portal product. For instance, "As a judge, I can view all the projects I need to score." Instructor breaks that down into a checklist of technical tasks that need to be completed.
+- Instructor pulls up a students' trello and creates an interview out of it:
+  - "How did you break down your tasks?"
+  - "How did you divide up work?"
+  - "What did you learn from the task breakdown process?"
+- Instructor does this interview in front of everyone. Instructor also uses some of the questions that students curated.
 
 ### You Do
 
-**Students break down a single user story**
+**Going over the inquiry**
 
-- In breakout rooms, give students the user story, "As a judge, I can individually score a project." Students need to create all the technical tasks associated with completing that task.
-  
-**Go over students' examples**
-
-- Instructor pulls up examples of students task breakdown and provides feedback.
+- Instructor goes over the inquiry questions and what they should focus on in the afternoon.
 
 ##### Check for Understanding
 
