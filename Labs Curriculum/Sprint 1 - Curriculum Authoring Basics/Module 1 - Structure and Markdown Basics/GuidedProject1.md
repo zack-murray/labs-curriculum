@@ -100,11 +100,11 @@ You should communicate this to the students at the beginning of the lesson and r
   
 **Breaking a product roadmap down into user stories**
 
-- Instructor pulls up Hackathon Portal product roadmap and creates trello cards for each user story.
+- Instructor pulls up Citrics product roadmap and creates trello cards for each user story.
 
 **Adding supplemental tasks to the user stories**
 
-- Instructor puts a checklist of tasks to accomplish a single user story on the Hackathon Portal product. For instance, "As a judge, I can view all the projects I need to score." Instructor breaks that down into a checklist of technical tasks that need to be completed.
+- Instructor puts a checklist of tasks to accomplish a single user story on the Citrics product. For instance, "As a judge, I can view all the projects I need to score." Instructor breaks that down into a checklist of technical tasks that need to be completed.
 
 ### You Do
 
