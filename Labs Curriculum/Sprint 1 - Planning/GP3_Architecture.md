@@ -1,15 +1,16 @@
-# Guided Project: Plan Critique
+# Guided Project: Architecture
 
 ## [Training Kit](www.example.com)
 
 ## Objectives
 
-* Student can articulate breaking down a release into individual tasks.
+* Student will be able to articulate tradeoffs for architectural and design decisions.
 
 ## Resources
 
-* 🐙 [Slides](https://docs.google.com/presentation/d/1hl8_bNuORY6nQQB3jCZcZI25q0sfrZ5KZEqO6lE4eSk/edit?usp=sharing)
-* 🐙 [CPD Refresher](https://docs.google.com/presentation/d/1vGwv6vrWUqUnuHCFXyaOUq2E17nzB2vFl0qgfKI3UeU/edit#slide=id.g8dd56701a2_0_158)
+* 🐙 [Slides](www.example.com)
+* 🐙 [Architecture Document](https://www.notion.so/Architecture-Document-57fe0294126c4edb9d40a3dee973da9f)
+* 🐙 [Example: Citrics Product Roadmap](https://www.notion.so/Example-Citrics-Product-Roadmap-32b2dea9721947adb0be9dcc3808acc3)
 * 🐙 [Training Kit GitHub Repo](www.example.com)
 
 ----
@@ -18,78 +19,56 @@
 
 Here's an overview of our guided project schedule today.
 
-| Time Stamp | Activity                        |
-| ---------- | ------------------------------- |
-| 09:00      | Review yesterday's key points   |
-| 09:05      | Student Trello board review     |
-| 09:35      | Hiring manager questions        |
-| 09:40      | Speaking about your process     |
-| 09:50      | Going over the inquiry          |
-| 09:55      | End                             |
+| Time       | Activity                         |
+| ---------- | -------------------------------  |
+| 09:00      | What's an architecture breakdown?|
+| 09:02      | Reviewing product requirements   |
+| 09:07      | High-level architecture          |
+| 09:27      | Technical details                |
+| 09:42      | Data model                       |
+| 10:00      | You Do                           |
+| 10:05      | End                              |
 
 ## Purpose
 
-Everything at Lambda is engineered to prepare you for your future job. Framing your learning in the context of its application on the job or in a hiring manager interview should serve as a vital reminder of your trajectory.
+Creating architecture starts with a hierarchical deconstruction.
 
-Recontextualizing your user story task breakdowns as an exercise in interview prep serves as an excellent example of how we want you to reimagine the real-world relevance of all the work you do here.
+A top-level concept of the system's required functions is broken down into sub-functions; the most abstract version of its physical form is broken down into subsystems capable of performing the sub-functions, and so on for other types of breakdowns. A prerequisite for any product development planning.
 
 ## Lesson
 
 ### *I Do*
 
-#### Review takewaways from yesterday's guided project
+#### What is an architecture breakdown?
 
-* Your instructor takes a few minutes to review the key points and takeaways from our guided project on user stories and planning.
+* Your instructor discusses the mechanics of an architecture breakdown, its utility, and what you'll be accomplishing.
 
 ### *We Do*
 
-#### Reviewing Trello boards
+#### Reviewing product requirements
 
-* Your instructor picks three teams and reviews their trello boards as a group exercise.
+* Your instructor takes a product roadmap and reviews the product requirements with you.
 
-#### Hiring manager questions
+#### High-level architecture diagram
 
-* Your instructor guides class participation via Slack in assembling a number of questions hiring managers could ask about the thinking and technical decision-making behind your task breakdown process.
+* Guiding class participation via Slack, your instructor creates a component diagram and data flow diagram, incorporating your suggestions.
 
-#### Speaking about your process
+#### Technical details
 
-* Your instructor and a Career Specialist use a student Trello board to create several resume power statements and conduct a mock interview:
-  * "How did you break down your tasks? What aspects of the project did you have clear ownership of?"
-  * "How did you divide up work to deliver on time?"
-  * "What were the results or outcomes of dividing the project the way the team did? Was this process effective?"
-* Your instructor conducts this interview in front of the class and the Career Specialist reiterates what makes a power statement. Your instructor may also use some student-curated questions. You're encouraged to write your own questions based on your task breakdown.
+* Your instructor walks you through the frameworks and libraries to use.
+
+#### Data model
+
+* Your instructor creates a database schema for the product.
 
 ### *You Do*
 
-#### Going over the inquiry
+#### Setting up...stuff?
 
-* Your instructor discusses the inquiry questions and what you should focus on in the afternoon.
+* 
 
 ----
 
 ## After Class
 
 Take a few minutes to review the principles you've learned. What questions do you still have? Remember, your instructor, TL, and Labs Support Hours are here to help. Don't hesitate to reach out.
-
-
-
-## Objectives
-
-- **Unit Objective:** Students can effectively describe their key learnings, technical choices, and experiences in a way that demonstrates growth and personal skill.
-- (1st **Sprint objective) Module Objective:** Students will be able to articulate tradeoffs for architectural and design decisions.
-
-What is an architecture breakdown	I Do	Instructor goes into what an architecture breakdown is and what they will accomplish. 2 mins
-
-Reviewing product requirements	We Do	Instructor will take a product roadmap and review the product requirements. 5mins
-
-High-level architecture diagram	We Do	Instructor will create a component diagram and data flow diagram. Ask students in slack for suggestions. 20 mins
-
-Technical Details	We Do	Instructor will research and determine what frameworks and libraries to use. Instructor will create a component diagram and data flow diagram. Ask students in slack for suggestions. 15 mins
-
-Data Model	We Do	Instructor will create a database schema for the product. Instructor will create a component diagram and data flow diagram. Ask students in slack for suggestions. 20 mins
-
-## Resources
-
-[Architecture Document](https://www.notion.so/Architecture-Document-57fe0294126c4edb9d40a3dee973da9f)
-
-[Example: Citrics Product Roadmap](https://www.notion.so/Example-Citrics-Product-Roadmap-32b2dea9721947adb0be9dcc3808acc3)
