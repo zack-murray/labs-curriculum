@@ -1,15 +1,14 @@
-# Guided Project: Plan Critique
+# Guided Project: GitHub
 
 ## [Training Kit](www.example.com)
 
 ## Objectives
 
-* Student can articulate breaking down a release into individual tasks.
+* Student can articulate the challenges and lessons learned from managing their time working on a complex project in a team.
 
 ## Resources
 
-* 🐙 [Slides](https://docs.google.com/presentation/d/1hl8_bNuORY6nQQB3jCZcZI25q0sfrZ5KZEqO6lE4eSk/edit?usp=sharing)
-* 🐙 [CPD Refresher](https://docs.google.com/presentation/d/1vGwv6vrWUqUnuHCFXyaOUq2E17nzB2vFl0qgfKI3UeU/edit#slide=id.g8dd56701a2_0_158)
+* 🐙 [Slides](www.example.com)
 * 🐙 [Training Kit GitHub Repo](www.example.com)
 
 ----
@@ -18,22 +17,38 @@
 
 Here's an overview of our guided project schedule today.
 
-| Time Stamp | Activity                        |
-| ---------- | ------------------------------- |
-| 09:00      | Review yesterday's key points   |
-| 09:05      | Student Trello board review     |
-| 09:35      | Hiring manager questions        |
-| 09:40      | Speaking about your process     |
-| 09:50      | Going over the inquiry          |
-| 09:55      | End                             |
+| Time       | Activity                         |
+| ---------- | -------------------------------  |
+| 10:00      | Why is version control important?|
+| 10:05      | GitHub workflow                  |
+| 10:15      | Writing a good pull request      |
+| 10:25      | Creating a pull request          |
+| 10:45      | Reviewing a pull request         |
+| 10:55      | Breakout room PR review          |
+| 11:10      | Reviewing the reviews            |
+| 11:20      | End                              |
 
 ## Purpose
 
-Everything at Lambda is engineered to prepare you for your future job. Framing your learning in the context of its application on the job or in a hiring manager interview should serve as a vital reminder of your trajectory.
+Useful as it is for the individual, a version control system becomes even more essential for software development on a team.
 
-Recontextualizing your user story task breakdowns as an exercise in interview prep serves as an excellent example of how we want you to reimagine the real-world relevance of all the work you do here.
+On a team, your level of professionalism as you go about the mechanics of a GitHub workflow (something you're all quite familiar with by now) can impact the efficiency of your teammates and the forward momentum of your product's development. It's not just you playing in your sandbox repo anymore -- it's important to do it right.
 
 ## Lesson
+
+Why is version control important	I Do	Instructor describes the importance of version control in working with a team	5
+
+Go though a GitHub flow	We Do	Instructor pulls up an example repository, creates a new branch, edits a file, pushes to the new branch. Instructor is actively asking students what each next step should be in the github flow process.	10
+
+Writing a good pull request	We Do	After creating a file change, instructor writes a pull request in front of the students and describes why writing a good pull request is important	10
+
+Students create a pull request	You Do	Instructor gives students a repo and students have to create a file change + write a good pull request in breakout rooms. 	20
+
+Reviewing a pull request	We Do	Instructor brings everyone back to breakout rooms. Instructor pulls up 3 student examples of the pull request and reviews them live and gives feedback on GitHub.	10
+
+Give students a PR to review	You Do	Instructor puts students in breakout rooms. Students are given a PR to review and they write a review together.	15
+
+Review the Reviews	We Do	Instructor pulls up a couple of student examples of reviews and gives feedback on each review.	10
 
 ### *I Do*
 
@@ -74,29 +89,10 @@ Take a few minutes to review the principles you've learned. What questions do yo
 
 
 
-## Objectives
-
-- **Unit Objective 1:** Student can plan, manage their time effectively, deliver agreed upon work, and measure the impact of their delivery.
-- **Unit Objective 2:** Student can demonstrate meaningful individual contribution on a project that meets hiring manager expectations.
-- (1st **Sprint objective) Module Objective:** Students can articulate the challenges and learnings of managing their time while working on a complex project in a team
-
 ## Instructors
 
 - 2 engineering managers
 
-Why is version control important	I Do	Instructor describes the importance of version control in working with a team	5
-
-Go though a GitHub flow	We Do	Instructor pulls up an example repository, creates a new branch, edits a file, pushes to the new branch. Instructor is actively asking students what each next step should be in the github flow process.	10
-
-Writing a good pull request	We Do	After creating a file change, instructor writes a pull request in front of the students and describes why writing a good pull request is important	10
-
-Students create a pull request	You Do	Instructor gives students a repo and students have to create a file change + write a good pull request in breakout rooms. 	20
-
-Reviewing a pull request	We Do	Instructor brings everyone back to breakout rooms. Instructor pulls up 3 student examples of the pull request and reviews them live and gives feedback on GitHub.	10
-
-Give students a PR to review	You Do	Instructor puts students in breakout rooms. Students are given a PR to review and they write a review together.	15
-
-Review the Reviews	We Do	Instructor pulls up a couple of student examples of reviews and gives feedback on each review.	10
 
 ## Resources (TO DO):
 

@@ -18,7 +18,7 @@
 
 Here's an overview of our guided project schedule today.
 
-| Time Stamp | Activity                        |
+| Time       | Activity                        |
 | ---------- | ------------------------------- |
 | 09:00      | Review yesterday's key points   |
 | 09:05      | Student Trello board review     |
