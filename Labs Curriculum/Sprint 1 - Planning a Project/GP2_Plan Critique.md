@@ -1,16 +1,14 @@
 # Guided Project: Plan Critique
 
-## [Training Kit](www.example.com)
-
 ## Objectives
 
 * Student can articulate breaking down a release into individual tasks.
 
 ## Resources
 
-* 🐙 [Slides](https://docs.google.com/presentation/d/1hl8_bNuORY6nQQB3jCZcZI25q0sfrZ5KZEqO6lE4eSk/edit?usp=sharing)
 * 🐙 [CPD Refresher](https://docs.google.com/presentation/d/1vGwv6vrWUqUnuHCFXyaOUq2E17nzB2vFl0qgfKI3UeU/edit#slide=id.g8dd56701a2_0_158)
 * 🐙 [Training Kit GitHub Repo](www.example.com)
+* 🐙 [Labs Student Guide](https://www.notion.so/lambdaschool/Labs-25-Student-Guide-7be23f8048ca4d2eae69a06f4613f67a)
 
 ----
 
@@ -37,7 +35,7 @@ Recontextualizing your user story task breakdowns as an exercise in interview pr
 
 ### *I Do*
 
-#### Review takewaways from yesterday's guided project
+#### Review takeaways from yesterday's guided project
 
 * Your instructor takes a few minutes to review the key points and takeaways from our guided project on user stories and planning.
 
@@ -45,7 +43,7 @@ Recontextualizing your user story task breakdowns as an exercise in interview pr
 
 #### Reviewing Trello boards
 
-* Your instructor picks three teams and reviews their trello boards as a group exercise.
+* Your instructor picks three teams and reviews their Trello boards as a group exercise.
 
 #### Hiring manager questions
 

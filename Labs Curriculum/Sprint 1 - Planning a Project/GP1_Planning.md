@@ -1,16 +1,14 @@
 # Guided Project: Planning
 
-## [Training Kit](www.example.com)
-
 ## Objectives
 
 * Student can articulate breaking down a release into individual tasks.
 
 ## Resources
 
-* 🐙 [Slides](https://docs.google.com/presentation/d/1HgKFg8vbAsrptP_cIN-b6_QkZ2mbsy1m4AMrn7BRqd0/edit#slide=id.g89f88c27ec_0_31)
 * 🐙 [Blank Trello Board](https://trello.com/b/aE7YSd3b/project-management)
 * 🐙 [Training Kit GitHub Repo](www.example.com)
+* 🐙 [Labs Student Guide](https://www.notion.so/lambdaschool/Labs-25-Student-Guide-7be23f8048ca4d2eae69a06f4613f67a)
 
 ----
 
@@ -36,8 +34,8 @@ Before you can start development, you need to know what you're developing. This 
 
 User stories are short, simple descriptions of a feature told from the user's perspective. For example:
 
-* "As a user, I can backup my entire hard drive."
-* "As a user, I can indicate folders not to backup so that my backup drive isn't filled up with things I don't need saved."
+* "As a user, I can back up my entire hard drive."
+* "As a user, I can indicate folders not to backup so that my backup drive isn't filled up with things I don't need to have saved."
 
 ## Lesson
 
@@ -65,7 +63,7 @@ Your instructor will accompany you through an IWY loop (I do, We do, You do) in 
   
 #### Breaking down a product roadmap into user stories
 
-* Your instructor opens up Citrics product roadmap and creates trello cards for each user story.
+* Your instructor opens up Citrics product roadmap and creates Trello cards for each user story.
 
 #### Adding supplemental tasks to user stories
 

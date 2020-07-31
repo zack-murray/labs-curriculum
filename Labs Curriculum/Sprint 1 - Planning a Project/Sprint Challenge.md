@@ -35,7 +35,7 @@ These sorts of questions inform your entire labs experience. You made a few tech
 
 ## Prompt 3 - Professional Development 
 
-[Power Statements](https://learn.lambdaschool.com/cr/module/recQUR9bWxvLBJknr](https://learn.lambdaschool.com/cr/module/recQUR9bWxvLBJknr))
+### [Power Statements](https://learn.lambdaschool.com/cr/module/recQUR9bWxvLBJknr](https://learn.lambdaschool.com/cr/module/recQUR9bWxvLBJknr))
 
 This lesson we reinforced how to turn your responsibilities and tasks into power statements. To practice, write a few power statements you intend to use in your LinkedIn profile. Before writing those statements, ensure your LinkedIn has all the following content checked off.
 
@@ -90,4 +90,4 @@ Here's the checklist you'll want to complete for projects:
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18ad1d52-5679-4f4e-80bc-aa0341034f93/Untitled.png](https://tk-assets.lambdaschool.com/4f07d726-0a78-4014-82f4-dd56a02f21bc_Untitled2.png)
 
-[Sprint Challenge Rubric](https://www.notion.so/863354e030274baf99983cfee357d4d1)
+## [Sprint Challenge Rubric](https://www.notion.so/863354e030274baf99983cfee357d4d1)
