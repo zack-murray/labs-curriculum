@@ -52,11 +52,11 @@ Recontextualizing your user architecture breakdown as an exercise in interview p
 
 #### Speaking about your process
 
-* Your instructor and a Career Specialist select a student’s architecture document and pretend it’s theirs. The Career Specialist interviews your instructor:
+* Your instructor and a Career Specialist select a student and conduct a mock interview about their architecture document as a class demonstration:
   * “Describe a technical choice you made.”
   * “Given the decision you made, what do you feel are some of the risks?”
   * “What challenges do you foresee with the architecture your team selected?”
-* Your instructor conducts this interview in front of the class, incorporating some student-curated questions as well. The Career Specialist offers tips and feedback on responding to these sorts of questions.
+* The Career Specialist may incorporate some student-curated questions as well. The Career Specialist offers tips and feedback on responding to these sorts of questions.
 
 ### *You Do*
 
