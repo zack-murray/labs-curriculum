@@ -6,7 +6,7 @@
 
 ## Resources
 
-* 🐙 [Training Kit GitHub Repo](www.example.com)
+* 🐙 [Training Kit GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
 * 🐙 [Labs Student Guide](https://www.notion.so/lambdaschool/Labs-25-Student-Guide-7be23f8048ca4d2eae69a06f4613f67a)
 
 ----

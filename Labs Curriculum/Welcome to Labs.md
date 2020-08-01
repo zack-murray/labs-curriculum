@@ -69,28 +69,7 @@ Your project is complete when it...
 
 #### Key Areas of Measure
 
-We work closely with hiring managers to understand what they're looking for in the portfolio projects you produce. All of your work during Build Sprint and instruction culminates in delivering a real product, design, or data analysis to a real user. We will measure the quality and delivery of that project.
-
-Labs will have three key rubrics:
-
-- Student individual contribution and collaboration rubric
-- Team collaboration and delivery rubric
-- Project quality and delivery rubric
-
-Labs will measure the quality of project delivery as well as peer and Team Lead reviews for each student.
-
-**Student pass rate on the individual contribution and collaboration rubric**
-
-- Measured by sprint challenge scoring
-
-**Student effectiveness at working with other team members**
-
-- Measured by peer reviews
-- Measured by Team Lead reviews
-
-**Project average quality and average deviation from median quality**
-
-- Measured by plan quality and project quality metrics
+We work closely with hiring managers to understand what they're looking for in the portfolio projects you produce. All of your work during Build Sprint and instruction culminates in delivering a real product, design, or data analysis to a real user.
 
 These five key areas below are measures you may be asked about during the hiring process. Your experience in Labs will help you confidently answer questions like these: “What can you show me that demonstrates you’re ready for the job?” or “What experiences do you have that have prepared you to work on a real team?”
 
