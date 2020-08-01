@@ -6,8 +6,8 @@
 
 ## Resources
 
-* 🐙 [CPD Refresher](https://docs.google.com/presentation/d/1vGwv6vrWUqUnuHCFXyaOUq2E17nzB2vFl0qgfKI3UeU/edit#slide=id.g8dd56701a2_0_158)
-* 🐙 [Training Kit GitHub Repo](www.example.com)
+* 🐙 Brush up on power statements in the [Resume and LinkedIn Fundamentals](https://learn.lambdaschool.com/cr/module/recQUR9bWxvLBJknr) lesson.
+* 🐙 [Training Kit GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
 * 🐙 [Labs Student Guide](https://www.notion.so/lambdaschool/Labs-25-Student-Guide-7be23f8048ca4d2eae69a06f4613f67a)
 
 ----

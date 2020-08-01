@@ -8,7 +8,7 @@
 
 * 🐙 [Architecture Document](https://www.notion.so/Architecture-Document-57fe0294126c4edb9d40a3dee973da9f)
 * 🐙 [Example: Citrics Product Roadmap](https://www.notion.so/Example-Citrics-Product-Roadmap-32b2dea9721947adb0be9dcc3808acc3)
-* 🐙 [Training Kit GitHub Repo](www.example.com)
+* 🐙 [Training Kit GitHub Repo](https://github.com/LambdaSchool/labs-curriculum)
 * 🐙 [Labs Student Guide](https://www.notion.so/lambdaschool/Labs-25-Student-Guide-7be23f8048ca4d2eae69a06f4613f67a)
 
 ----
