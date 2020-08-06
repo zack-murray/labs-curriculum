@@ -43,6 +43,8 @@ These sorts of questions inform your entire labs experience. You made a few tech
 
 This lesson we reinforced how to turn your responsibilities and tasks into power statements. To practice, write a few power statements you intend to use in your LinkedIn profile. Before writing those statements, ensure your LinkedIn has all the following content checked off.
 
+Add a link to your Linkedin in your sprint challenge submission document.
+
 ## Personal and Contact Information:
 
 - [ ]  First and last name are added to profile
