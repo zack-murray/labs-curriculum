@@ -1,6 +1,6 @@
 # Module Inquiry 8
 
-## Writing your blog: Part 1
+## Writing Your Blog: Part 1
 
 Your module inquiries this week will be prompting you toward composing different pieces of your sprint challenge blog post. As your responses to the questions/prompts below will be the first part of your blog post, please draft this in Medium.
 

@@ -1,6 +1,6 @@
-# Module Inquiry 8
+# Module Inquiry 9
 
-## Writing your blog: Part 2
+## Writing Your Blog: Part 2
 
 This will be the second part of your blog post. Continue drafting it in Medium.
 

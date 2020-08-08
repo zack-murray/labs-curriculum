@@ -1,6 +1,6 @@
 # Module Inquiry 10
 
-## Writing your blog: Part 3
+## Writing Your Blog: Part 3
 
 This will be the final part of your blog post. Continue drafting it in Medium.
 
