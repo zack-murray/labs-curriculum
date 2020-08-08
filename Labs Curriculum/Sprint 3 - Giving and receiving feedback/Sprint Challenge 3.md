@@ -8,7 +8,7 @@
 ## Prompt 1 - Giving Feedback
 
 1. What's an example of an issue you've had in working with another team member? How have you addressed it?
-2. What are some benefits and challenges to working with differing personalities and work styles on your team? Please provide an example.
+2. What are some benefits and challenges to working with the different personalities and work styles on your team? Please provide an example.
 
 ## Prompt 2 - Receiving Feedback
 
@@ -49,7 +49,7 @@ For the purpose of endorsement, include the following information in your README
 
 ## Pinned Projects:
 
-- [ ]  Pin 3-6 non-sprint projects to the top of the page, prioritizing your most impressive projects and open-source contributions. Include at least a one sentence description of each project.
+- [ ]  Pin 3-6 non-sprint projects to the top of the page, prioritizing your most impressive projects and open-source contributions. Include at least a one-sentence description of each project.
 
 **Example:**
 

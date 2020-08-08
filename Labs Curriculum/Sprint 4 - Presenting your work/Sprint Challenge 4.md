@@ -13,7 +13,7 @@ This week, you spent your inquiries writing sections of a blog post. For your sp
 - A technical challenges section (which you completed on Tuesday)
 - A results and future implications section (which you completed on Wednesday)
 
-Make sure to have interesting subtitles (don't just say "Background") and a consistent writing style. Publish your blog before 11 am and submit a link to tbe blog as your sprint challenge.
+Make sure to have interesting subtitles (don't just say "Background") and a consistent writing style. Publish your blog before 11 am and submit a link to the blog as your sprint challenge.
 
 ## Prompt 2 - Share your blog (Optional)
 

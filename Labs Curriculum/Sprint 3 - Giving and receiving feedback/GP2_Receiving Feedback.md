@@ -46,7 +46,7 @@ You'll be receiving feedback for as long as you find yourself in a workplace (fr
 
 #### Feedback demonstration 1
 
-* Your instructors conduct a mock feedback session, one giving feedback to the other. Unfortunately, the receiever doesn't take it so well...
+* Your instructors conduct a mock feedback session, one giving feedback to the other. Unfortunately, the receiver doesn't take it so well...
 
 #### Debrief
 
@@ -62,7 +62,7 @@ You'll be receiving feedback for as long as you find yourself in a workplace (fr
 
 #### Feedback demonstration 2
 
-* Your instructors conduct a mock feedback session, one giving feedback to the other. Fortunately, this time around the receiever takes the feedback well.
+* Your instructors conduct a mock feedback session, one giving feedback to the other. Fortunately, this time around the receiver takes the feedback well.
 
 #### Final debrief
 

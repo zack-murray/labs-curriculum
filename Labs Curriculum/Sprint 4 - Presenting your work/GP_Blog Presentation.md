@@ -28,7 +28,7 @@ Here's an overview of our guided project schedule today.
 
 Telling your story does more than just let future employers know who you are -- it's a record of what you've done, what you've learned, and can give a sense of the professional you've become.
 
-A well-crafted blog post can enhance your visibilty and signal to hiring managers (in a more detailed way) your professional journey, with all its challenges and victories.
+A well-crafted blog post can enhance your visibility and signal to hiring managers (in a more detailed way) your professional journey, with all its challenges and victories.
 
 Put yourself out there! They can't find you if you're not out there.
 
