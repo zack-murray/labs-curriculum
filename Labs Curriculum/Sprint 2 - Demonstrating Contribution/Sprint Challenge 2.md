@@ -17,6 +17,8 @@ Here are some examples of hiring manager interview questions:
 
 We took these questions and cooked them into your labs experience. This week, you should have shipped at least one feature. Answer the following questions like you would in an interview:
 
+### Questions you need to answer
+
 1. Describe what you built this week. Link any relevant pull requests or paste screenshots of code.
 2. How does what you built contribute to the overall product your team is building? What user problems does it help solve?
 3. Describe your delivery process for what you built this week from ideation to breakdown to implementation. What challenges occurred during the delivery process that you didn't foresee?
@@ -29,6 +31,8 @@ As a software developer, you will almost always be on a team. As a result, engin
 - "What is your greatest weakness as a team player? How have you improved?"
 
 This week we taught you how to pair with other team members. You should have worked with at least one other person to deliver a feature. Reflect on that experience and answer the following questions like you would in an interview:
+
+### Questions you need to answer
 
 1. How did you work with another team member to deliver a feature this week? What role did you play?
 2. What did you learn this week from working in a team? How are you going to improve your teamwork in the future?
@@ -52,9 +56,11 @@ To ensure you are creating a robust and ready to use job search resume, use this
 
     4️⃣ Upload your resume and start working on improving it with CV Compiler
 
-3. After making the recommended CV Compiler edits, submit a final resume draft to your TL.
+3. After making the recommended CV Compiler edits, upload your resume to google drive and drop a link.
 
 4. Update your LinkedIn to include any new content you made for your resume. The experience bullets you created for your resume and projects are great examples of content you should consider bringing over to your profile.
+
+**Your submission for Prompt 3 should be a link to your resume**
 
 ## [Sprint Challenge Rubric](https://www.notion.so/1f9fa8ec9c4b4453a3fb21b60cc5352c)
 
