@@ -19,7 +19,7 @@ Here's an overview of our guided project schedule today.
 | Time       | Activity                        |
 | ---------- | ------------------------------- |
 | 09:00      | Giving proper feedback          |
-| 09:10      | Searchlight presentation        |
+| 09:10      | Form/Rubric presentation        |
 | 09:20      | Feedback demonstration          |
 | 09:30      | Debrief                         |
 | 09:35      | Breakout rooms                  |
@@ -43,13 +43,13 @@ Knowing how to go about giving feedback in a thoughtful, productive, and intenti
 
 ### *We Do*
 
-#### Searchlight presentation
+#### Form and rubric presentation
 
-* Your instructor explains Searchlight and walks you through logistics.
+* Your instructor explains the form and rubric and walks you through logistics.
 
 #### Feedback demonstration
 
-* Your instructor writes out feedback for another instructor and discusses how best to structure that feedback with the class (drawing on many of the same questions we encountered in Searchlight).
+* Your instructor writes out feedback for another instructor and discusses how best to structure that feedback with the class.
 
 #### Debrief
 
