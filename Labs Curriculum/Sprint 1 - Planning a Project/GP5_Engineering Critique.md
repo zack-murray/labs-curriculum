@@ -20,10 +20,9 @@ Here's an overview of our guided project schedule today.
 | Time       | Activity                        |
 | ---------- | ------------------------------- |
 | 09:00      | Review yesterday's key points   |
-| 09:05      | Student Trello board review     |
-| 09:30      | Hiring manager questions        |
-| 09:35      | Speaking about your process     |
-| 09:45      | Going over the inquiry          |
+| 09:05      | Hiring manager questions        |
+| 09:10      | Speaking about your process     |
+| 09:50      | Going over the inquiry          |
 | 09:55      | End                             |
 
 ## Purpose
@@ -42,21 +41,17 @@ Recontextualizing your user architecture breakdown as an exercise in interview p
 
 ### *We Do*
 
-#### Reviewing Trello boards
-
-* Your instructor picks three teams and conducts a review of their architecture documents for the class.
-
 #### Hiring manager questions
 
 * Your instructor guides class participation via Slack in assembling a number of questions hiring managers could ask about the thinking and technical decision-making behind your architecture breakdown.
 
 #### Speaking about your process
 
-* Your instructor and a Career Specialist select a student and conduct a mock interview about their architecture document as a class demonstration:
+* Your instructor picks three teams and conducts a review of their architecture documents for the class, asking questions like:
   * “Describe a technical choice you made.”
   * “Given the decision you made, what do you feel are some of the risks?”
   * “What challenges do you foresee with the architecture your team selected?”
-* The Career Specialist may incorporate some student-curated questions as well. The Career Specialist offers tips and feedback on responding to these sorts of questions.
+* Your instructor may incorporate some student-curated questions as well, offering tips and feedback on responding to these sorts of questions.
 
 ### *You Do*
 

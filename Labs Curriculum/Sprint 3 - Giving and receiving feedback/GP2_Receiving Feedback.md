@@ -19,14 +19,11 @@ Here's an overview of our guided project schedule today.
 | Time       | Activity                        |
 | ---------- | ------------------------------- |
 | 09:00      | General feedback overview       |
-| 09:05      | Feedback demonstration 1        |
+| 09:05      | Feedback demonstration          |
 | 09:10      | Debrief                         |
-| 09:15      | Breakout rooms                  |
-| 09:25      | Breakout debrief                |
-| 09:30      | Feedback demonstration 2        |
-| 09:35      | Final debrief                   |
-| 09:40      | Going over the inquiry          |
-| 09:45      | End                             |
+| 09:15      | Feedback follow-up demonstration|
+| 09:25      | Inquiry and follow-up           |
+| 09:30      | End                             |
 
 ## Purpose
 
@@ -44,7 +41,7 @@ You'll be receiving feedback for as long as you find yourself in a workplace (fr
 
 ### *We Do*
 
-#### Feedback demonstration 1
+#### Feedback demonstration
 
 * Your instructors conduct a mock feedback session, one giving feedback to the other. Unfortunately, the receiver doesn't take it so well...
 
@@ -52,27 +49,15 @@ You'll be receiving feedback for as long as you find yourself in a workplace (fr
 
 * Your Career Specialist guides a Slack discussion about what the instructor receiving feedback could have done better. Your Career Specialist identifies opportunities for improvement.
 
-#### Breakout rooms
+#### Feedback follow-up demonstration
 
-* You enter breakout rooms in groups of 2-3 with hypothetical scenarios. You take a few minutes to practice giving and receiving feedback with one another within the parameters of the scenario.
-
-#### Breakout debrief
-
-* Your Career Specialist leads a discussion on the breakout scenarios, exploring examples and lessons learned.
-
-#### Feedback demonstration 2
-
-* Your instructors conduct a mock feedback session, one giving feedback to the other. Fortunately, this time around the receiver takes the feedback well.
-
-#### Final debrief
-
-* Your Career Specialist leads a discussion on what was better about this second feedback demonstration.
+* The class helps the instructor who received feedback compose a message to thank and acknowledge the instructor who provided the feedback with clear direction on how they intend to improve.
 
 ### *You Do*
 
-#### Going over the inquiry
+#### Inquiry and follow-up
 
-* Your instructor discusses the inquiry questions and what you should focus on in the afternoon.
+* Your instructor discusses the inquiry questions and how students should follow up on both the positive and the growth feedback they received.
 
 ----
 
