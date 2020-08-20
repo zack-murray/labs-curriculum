@@ -7,10 +7,16 @@
 
 ## Prompt 1 - Giving Feedback
 
+On the job, you will be responsible for giving feedback to your peers. In an interview, hiring managers might evaluate this through questions like:
+- 
+### Questions you need to answer
+
 1. What's an example of an issue you've had in working with another team member? How have you addressed it?
 2. What are some benefits and challenges to working with the different personalities and work styles on your team? Please provide an example.
 
 ## Prompt 2 - Receiving Feedback
+
+### Questions you need to answer
 
 1. How do your teammates tend to describe you?
 2. What's the most difficult piece of feedback you've ever received?
@@ -19,6 +25,8 @@
 ## Prompt 3 - Professional Development GitHub Profile
 
 In giving and receiving feedback, you learn how others see you. You also discover how you'd like to be seen. Take the feedback you've received and use it to help write about yourself -- incorporate that information into a GitHub Profile README. During your job search, you'll find that many applications ask you to link to your GitHub. Use GitHub as a tool to promote yourself by ensuring you have the following checked off:
+
+**Link your github profile as your submission**
 
 ## Profile Photo and Name
 
