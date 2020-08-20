@@ -5,10 +5,12 @@
 - Student demonstrates they can provide useful feedback to their peers.
 - Student can respond productively to critical feedback from their peers and articulate its contribution to their professional development.
 
+On the job, you will be responsible for giving feedback to your peers. Here are some what some hiring managers said about feedback.
+- "We're looking for candidates that are receptive to feedback during the interview process (like if they get stuck on a whiteboard question)". "We're looking for candidates that are excited to learn, willing/able to learn from other engineers." "During the interview, we try pushing back on something they did. They should be very open to feedback."
+- "As much as possible I'm looking for experiences, examples, and team work that can indicate they will be successful. Are they open to feedback, interested in learning, work together in teams."
+
 ## Prompt 1 - Giving Feedback
 
-On the job, you will be responsible for giving feedback to your peers. In an interview, hiring managers might evaluate this through questions like:
-- 
 ### Questions you need to answer
 
 1. What's an example of an issue you've had in working with another team member? How have you addressed it?
