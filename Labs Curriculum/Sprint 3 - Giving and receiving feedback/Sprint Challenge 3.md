@@ -28,7 +28,7 @@ On the job, you will be responsible for giving feedback to your peers. Here are 
 
 In giving and receiving feedback, you learn how others see you. You also discover how you'd like to be seen. Take the feedback you've received and use it to help write about yourself -- incorporate that information into a GitHub Profile README. During your job search, you'll find that many applications ask you to link to your GitHub. Use GitHub as a tool to promote yourself by ensuring you have the following checked off:
 
-**Link your github profile as your submission**
+**Link your github profile as your submission for this prompt**
 
 ## Profile Photo and Name
 
