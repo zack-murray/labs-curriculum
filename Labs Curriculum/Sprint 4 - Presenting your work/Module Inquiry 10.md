@@ -5,7 +5,7 @@
 This will be the final part of your blog post. Continue drafting it in Medium.
 
 1. Come up with an engaging subtitle for this section.
-2. Write a paragraph on the final result of your product. You should include:
+2. Write a paragraph on the current state of your product. You should include:
     - A full list of shipped features
     - A video or several gif demos
 3. Write a paragraph on the future of the product. You should include:
